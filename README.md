@@ -8,4 +8,4 @@ How to detect Headphones in this [2020 Update](https://medium.com/p/8623f99ec69f
 
 ## Download a .zip with the updated app
 
-https://github.com/andion/PurrfectVolume/archive/master.zip
+https://github.com/andion/PurrfectVolume/archive/main.zip
